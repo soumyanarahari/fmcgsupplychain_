@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "https://fmcgsupplychain.com",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
